@@ -13,3 +13,19 @@ public class linkedlistaddLast {
         System.out.print(colors);
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+//[lavender, purple]
+//[lavender, purple, brown]
+//[pink, lavender, purple, brown]
+
+
