@@ -17,3 +17,11 @@ public class linkedlistifelse{
         
     }
 }
+
+
+
+
+
+
+
+//Techno is present
