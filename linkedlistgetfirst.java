@@ -1,4 +1,4 @@
-import java.util.LinkedList;
+import java.util.LinkedList;//
 
 public class linkedlistgetfirst {
     public static void main(String[]args){
@@ -11,3 +11,11 @@ public class linkedlistgetfirst {
     }
     
 }
+
+
+
+
+
+
+
+//blue
