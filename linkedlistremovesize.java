@@ -15,3 +15,12 @@ public class linkedlistremovesize{
        
     }
 }
+
+
+
+
+
+
+
+//[acer, hp, dell, lenova]
+//4
