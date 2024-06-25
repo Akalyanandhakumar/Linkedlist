@@ -19,3 +19,15 @@ public class linkedlistadd{
     }
 }
 
+
+
+
+
+
+
+
+
+
+//[mukunth, vinitha, kavitha, janu, banu]
+//[abc, efg]
+//[mukunth, vinitha, kavitha, janu, banu, abc, efg]
