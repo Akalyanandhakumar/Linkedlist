@@ -20,3 +20,20 @@ public class duplicatearray {
     
     
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+//output
+//5
+[1,2,3,4,2]
+2
