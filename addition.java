@@ -14,3 +14,10 @@ public class addition {
 
     }
 }
+
+
+
+//output
+//7
+
+
