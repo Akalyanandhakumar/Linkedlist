@@ -10,3 +10,11 @@ public class reverse {
          System.out.println(number.reversed());
     }
 }
+
+
+
+
+
+
+//output
+//bintu tintu alya akal
