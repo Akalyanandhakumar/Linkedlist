@@ -11,3 +11,17 @@ public class linkedlistfor{
           }
         }
 }
+
+
+
+
+
+
+
+
+//acer
+//hp
+//dell
+//lenova
+
+
