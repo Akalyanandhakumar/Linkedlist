@@ -23,3 +23,22 @@ public class Extractdigits {
 
     
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//output
+//java19 is e67asy programmi5ng 3lang7uage
+//1,9,6,7,5,3,7
